@@ -1,8 +1,5 @@
-# 📘 Spring Data JPA – Full In-depth Tutorial
+# 📘 Spring Data JPA
 
-This guide provides a comprehensive overview of the key concepts covered in the [Spring Data JPA Full Course on YouTube](https://www.youtube.com/watch?v=XszpXoII9Sg). It’s ideal for backend developers looking to master Spring Data JPA and simplify database operations in Java Spring Boot applications.
-
----
 
 ## 📖 Introduction to Spring Data JPA
 
